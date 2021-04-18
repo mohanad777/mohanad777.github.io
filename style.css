@@ -1,0 +1,117 @@
+
+    hr{
+width: 7%;
+        color: white;
+      
+        border-style: dotted none none;
+        
+    }
+
+body{
+    margin: 0;
+     font-family: verdana, sans-serif;
+    style=background-color: #f8f1f1;
+}
+p{
+    line-height: 2px;
+}
+
+table{
+    
+    text-align: center;
+    margin: 5px 30%;
+}
+
+ul{
+    text-align: center;
+    margin: 5px 30%;
+    
+}
+
+ol{
+    text-align: center;
+    margin: 5px 30%;
+    
+}
+    h1{
+     color: #11999e;;
+    
+    }
+ h3{
+    color:#a3d2ca;
+    
+    }
+     
+        hr{
+width: 7%;
+        color: white;
+      height: 0;
+        border-style: dotted none none;
+            font-size: 5;
+            color: #db6400;
+        
+    }
+.upbar{
+    padding: 0.6em;
+    text-align: center;
+    background: #66bfbf;
+   
+    
+}
+.firstPragragh{
+    color: #eaf6f6;
+}
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+a{
+    color: #11999e;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-family: verdana, sans-serif;
+    
+}
+a:hover{
+    color: #eaf6f6;
+}
+.copright{
+    color: #eaf6f6; 
+}
+.btn:hover {
+  background: #30e3cb;
+    
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-me{
+    margin-top: 4%;
+    text-align: center;
+
+}
+.middle{
+    text-align: center; 
+}
+.bottom-container{
+      background: #66bfbf;
+    margin: 4% auto auto 0;
+  text-align: center; 
+    padding: 40px 0 20px;
+}
